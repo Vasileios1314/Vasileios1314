@@ -15,7 +15,7 @@ Hereby my Portfolio ® [Hit it 🤖](https://gracious-bardeen-70f517.netlify.app
 - 📫 How to reach me: vasileios.bobonis@gmail.com
 - ⚡ Let's connect – [LinkedIn](https://www.linkedin.com/in/vasileios-bomponis-a20673121/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasileios1314&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasileios1314&layout=compact)
 
-[![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasileios1314)
+[Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasileios1314)
 
