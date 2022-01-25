@@ -17,5 +17,5 @@ Hereby my Portfolio ® [Hit it 🤖](https://gracious-bardeen-70f517.netlify.app
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasileios1314&layout=compact)
 
-![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasileios1314)
+![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasileios1314&show_icons=true&theme=radical)
 
