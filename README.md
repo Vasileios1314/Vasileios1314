@@ -24,7 +24,12 @@ Hereby my [Portfolio ®](https://gracious-bardeen-70f517.netlify.app/)
 <img height='32' width='32' alt='node.js' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'>
 <img height='32' width='32' alt='react.js' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'>
 <img height='32' width='32' alt='git' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>
-
+<img height='32' width='32' alt= ''src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png'>
+<img height='32' width='32' alt= ''>
+<img height='32' width='32' alt= ''>
+<img height='32' width='32' alt= ''>
+<img height='32' width='32' alt= ''>
+<img height='32' width='32' alt= ''>
 </p>
 
 
