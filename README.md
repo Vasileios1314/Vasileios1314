@@ -17,6 +17,15 @@ Hereby my Portfolio ® [Hit it 🤖](https://gracious-bardeen-70f517.netlify.app
 
 ---
 
+### Languages & Tools
+
+<p align='left'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>
+</p>
+
+
+---
+
 ### My GitHub Stats
 
 ![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasileios1314&show_icons=true&theme=radical)
