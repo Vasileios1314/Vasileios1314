@@ -1,6 +1,8 @@
 
 ![ colorful Tech ](chain.gif) [](chain.gif)
 
+---
+
 ### Hi there, Welcome to my GitHub 👋
 
 
