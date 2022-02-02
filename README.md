@@ -33,7 +33,7 @@ Hereby my [Portfolio ®](https://vasileiosbomponis.netlify.app/)
 <img height='32' width='32' title= 'terminal' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'>
 <img height='32' width='32' title= 'MatLab'src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png'>
 <img height='32' width='32' title= 'C'src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png'>
-<img height='32' width='32' title= 'LOGO'src='https://logos-download.com/wp-content/uploads/2016/02/Siemens_logo_blue.svg'>
+<img height='32' width='32' title= 'LOGO PLC'src='https://logos-download.com/wp-content/uploads/2016/02/Siemens_logo_blue.svg'>
 <img height='32' width='32' title='AutoCad' src='https://logodix.com/logo/635166.png'>
 </p>
 
