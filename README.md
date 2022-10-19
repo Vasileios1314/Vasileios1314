@@ -32,6 +32,7 @@ Hereby my [Portfolio ®](https://vasileiosbomponis.netlify.app/)
 <img height='40' width='40' title= 'C'src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png'>
 <img height='40' width='40' title= 'LOGO PLC'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTodqwRmrQ-fcXobczc7JKXV0IJAy2ihiVRAFtT8I9ggiKvSrxd_69TBibBLZuXYAqcryU&usqp=CAU'>
 <img height='40' width='40' title='Azure Devops' src='https://pbs.twimg.com/profile_images/1145617831905681408/XNKktHjN_400x400.png'>
+<img height='40' width='40' title='docker' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWXzlgCBf9vEPaa747Hjg72BCYQE_EbDpWckNPz7zfMw6qQN9x5w90N8BspIvtwjPl6U&usqp=CAU'>
 </p>
 
 ---
